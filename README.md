@@ -15,6 +15,7 @@ Este proyecto es un pipeline **ETL (Extracción, Transformación y Carga)** híb
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![Openpyxl](https://img.shields.io/badge/openpyxl-107C41?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
 * **Lenguaje:** Python 3.12
 * **Librerías:** `pandas`, `openpyxl`
@@ -38,6 +39,7 @@ This project is a hybrid **ETL (Extract, Transform, Load)** pipeline designed to
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![Openpyxl](https://img.shields.io/badge/openpyxl-107C41?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
 * **Language:** Python 3.12
 * **Libraries:** `pandas`, `openpyxl`
